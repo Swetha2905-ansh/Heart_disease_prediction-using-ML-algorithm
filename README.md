@@ -7,7 +7,7 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 
 Machine Learning algorithms used:
 
-Logistic Regression (Scikit-learn)
+. Logistic Regression (Scikit-learn)
 Naive Bayes (Scikit-learn)
 Support Vector Machine (Linear) (Scikit-learn)
 K-Nearest Neighbours (Scikit-learn)
